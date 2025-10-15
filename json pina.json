@@ -1,0 +1,84 @@
+{
+  "New item": [
+    {
+      "coffee_id": 1,
+      "coffee_title": "Caffè Latte",
+      "coffee_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+      "price": 30000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/caffe_latte_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/caffe_latte_poster.jpg"
+    },
+    {
+      "coffee_id": 2,
+      "coffee_title": "Cappuccino",
+      "coffee_detail": "Espresso with steamed milk, topped with a deep layer of foam.",
+      "price": 36000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/cappuccino_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/cappuccino_poster.jpg"
+    },
+    {
+      "coffee_id": 3,
+      "coffee_title": "Caffè Mocha",
+      "coffee_detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+      "price": 37000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/caffe_mocha_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/caffe_mocha_poster.jpg"
+    },
+    {
+      "coffee_id": 4,
+      "coffee_title": "Caramel Macchiato",
+      "coffee_detail": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
+      "price": 40000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/caramel_macchiato_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/caramel_macchiato_poster.jpg"
+    },
+    {
+      "coffee_id": 5,
+      "coffee_title": "Vanilla Sweet Cream Cold Brew",
+      "coffee_detail": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+      "price": 47000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/vanilla_sweet_cream_cold_brew_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/vanilla_sweet_cream_cold_brew_poster.jpg"
+    },
+    {
+      "coffee_id": 6,
+      "coffee_title": "Cold Brew",
+      "coffee_detail": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
+      "price": 40000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/cold_brew_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/cold_brew_poster.jpg"
+    },
+    {
+      "coffee_id": 7,
+      "coffee_title": "Mango Passion Frappuccino",
+      "coffee_detail": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
+      "price": 52000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/mango_passion_frappuccino_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/mango_passion_frappuccino_poster.jpg"
+    },
+    {
+      "coffee_id": 8,
+      "coffee_title": "Raspberry Currant Frappuccino",
+      "coffee_detail": "Made with freshly brewed Teavana® tea, blended juice and ice.",
+      "price": 34000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/raspberry_currant_frappuccino_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/raspberry_currant_frappuccino_poster.jpg"
+    },
+    {
+      "coffee_id": 9,
+      "coffee_title": "Coffee Frappuccino",
+      "coffee_detail": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
+      "price": 30000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/coffee_frappuccino_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/coffee_frappuccino_poster.jpg"
+    },
+    {
+      "coffee_id": 10,
+      "coffee_title": "Mocha Frappuccino",
+      "coffee_detail": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+      "price": 30000,
+      "thumbnail_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/mocha_frappuccino_thumbnail.png",
+      "poster_url": "https://raw.githubusercontent.com/adelianurfitriana2308869/APIcoffeeShopAdel/main/images/mocha_frappuccino_poster.jpg"
+    }
+  ]
+}
